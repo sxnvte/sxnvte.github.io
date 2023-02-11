@@ -29,4 +29,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-[sxnvte] (https://sxnvte.github.io/)
+[sxnvte](https://sxnvte.github.io/)
