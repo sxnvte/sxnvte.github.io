@@ -71,7 +71,7 @@ function handleCommand(command) {
             window.location.replace('https://duckduckgo.com/');
         }, 1000);
     } else if (command === 'reboot') {
-        output.innerHTML += "rebooting...\n";
+        output.innerHTML += rebootText;
         setTimeout(function() {
             window.location.replace('https://sxnvte.github.io/');
         }, 1000);
